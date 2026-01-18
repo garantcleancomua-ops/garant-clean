@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://garantclean.com.ua/sitemap.xml
